@@ -1,0 +1,50 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Dart and Flutter files
+*.dart text
+*.yaml text
+*.yml text
+*.md text
+*.json text
+*.xml text
+*.html text
+*.css text
+*.js text
+
+# Gradle files
+*.gradle text
+*.gradle.kts text
+*.properties text
+
+# iOS/macOS files
+*.pbxproj text
+*.plist text
+*.swift text
+*.h text
+*.m text
+*.mm text
+
+# Shell scripts should use LF
+*.sh text eol=lf
+gradlew text eol=lf
+
+# Batch scripts should use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.jar binary
+*.so binary
+*.dylib binary
+*.dex binary
+*.apk binary
+*.aab binary
+*.keystore binary
