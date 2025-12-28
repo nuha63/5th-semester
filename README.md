@@ -1,8 +1,11 @@
-# hello
+# 5th-semester
+Collection of codes, assignments, and projects from my 5th semester covering various subjects and coursework.
 
-A new Flutter project.
+## App Development - KitchenCraft Flutter App
 
-## Getting Started
+A Flutter application for managing kitchen tasks, recipes, meal planning, and more.
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
