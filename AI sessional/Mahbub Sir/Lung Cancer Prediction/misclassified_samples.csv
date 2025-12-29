@@ -1,0 +1,245 @@
+index,true_label,pred_label
+0,adenocarcinoma,squamous cell carcinoma
+1,Normal cases,squamous cell carcinoma
+3,Benign cases,squamous cell carcinoma
+5,Normal cases,squamous cell carcinoma
+6,large cell carcinoma,squamous cell carcinoma
+7,Normal cases,squamous cell carcinoma
+8,Benign cases,squamous cell carcinoma
+10,large cell carcinoma,squamous cell carcinoma
+11,Normal cases,squamous cell carcinoma
+12,Normal cases,squamous cell carcinoma
+13,large cell carcinoma,squamous cell carcinoma
+14,adenocarcinoma,squamous cell carcinoma
+16,Normal cases,squamous cell carcinoma
+17,Normal cases,adenocarcinoma
+18,large cell carcinoma,squamous cell carcinoma
+19,adenocarcinoma,squamous cell carcinoma
+20,Normal cases,squamous cell carcinoma
+21,adenocarcinoma,squamous cell carcinoma
+23,Normal cases,squamous cell carcinoma
+24,adenocarcinoma,squamous cell carcinoma
+25,Normal cases,squamous cell carcinoma
+26,Normal cases,squamous cell carcinoma
+27,Normal cases,squamous cell carcinoma
+28,adenocarcinoma,squamous cell carcinoma
+29,adenocarcinoma,squamous cell carcinoma
+30,Normal cases,squamous cell carcinoma
+32,Normal cases,adenocarcinoma
+34,large cell carcinoma,squamous cell carcinoma
+35,Normal cases,squamous cell carcinoma
+36,Normal cases,squamous cell carcinoma
+37,Normal cases,squamous cell carcinoma
+38,Normal cases,squamous cell carcinoma
+39,adenocarcinoma,squamous cell carcinoma
+40,Normal cases,squamous cell carcinoma
+41,Normal cases,squamous cell carcinoma
+42,Normal cases,squamous cell carcinoma
+43,adenocarcinoma,squamous cell carcinoma
+45,Normal cases,squamous cell carcinoma
+46,Normal cases,squamous cell carcinoma
+47,adenocarcinoma,squamous cell carcinoma
+48,Benign cases,squamous cell carcinoma
+49,large cell carcinoma,squamous cell carcinoma
+50,Normal cases,squamous cell carcinoma
+51,large cell carcinoma,squamous cell carcinoma
+53,adenocarcinoma,squamous cell carcinoma
+55,large cell carcinoma,squamous cell carcinoma
+56,adenocarcinoma,squamous cell carcinoma
+58,adenocarcinoma,squamous cell carcinoma
+60,adenocarcinoma,squamous cell carcinoma
+62,Normal cases,squamous cell carcinoma
+63,Benign cases,squamous cell carcinoma
+64,adenocarcinoma,squamous cell carcinoma
+65,adenocarcinoma,squamous cell carcinoma
+66,Normal cases,squamous cell carcinoma
+69,adenocarcinoma,squamous cell carcinoma
+70,adenocarcinoma,squamous cell carcinoma
+71,Normal cases,squamous cell carcinoma
+72,Normal cases,squamous cell carcinoma
+73,Normal cases,squamous cell carcinoma
+74,Normal cases,squamous cell carcinoma
+75,Normal cases,squamous cell carcinoma
+76,Normal cases,squamous cell carcinoma
+78,adenocarcinoma,squamous cell carcinoma
+79,large cell carcinoma,squamous cell carcinoma
+80,Normal cases,squamous cell carcinoma
+83,adenocarcinoma,squamous cell carcinoma
+84,adenocarcinoma,squamous cell carcinoma
+85,adenocarcinoma,squamous cell carcinoma
+86,Normal cases,squamous cell carcinoma
+87,Normal cases,squamous cell carcinoma
+88,Normal cases,squamous cell carcinoma
+89,Normal cases,squamous cell carcinoma
+91,Normal cases,squamous cell carcinoma
+92,Normal cases,squamous cell carcinoma
+93,Normal cases,squamous cell carcinoma
+94,adenocarcinoma,squamous cell carcinoma
+95,Normal cases,adenocarcinoma
+96,Normal cases,squamous cell carcinoma
+97,Normal cases,squamous cell carcinoma
+98,adenocarcinoma,squamous cell carcinoma
+99,Benign cases,squamous cell carcinoma
+100,adenocarcinoma,squamous cell carcinoma
+101,adenocarcinoma,squamous cell carcinoma
+102,large cell carcinoma,squamous cell carcinoma
+105,adenocarcinoma,squamous cell carcinoma
+106,Normal cases,squamous cell carcinoma
+107,adenocarcinoma,squamous cell carcinoma
+108,Normal cases,squamous cell carcinoma
+109,Benign cases,squamous cell carcinoma
+112,Normal cases,squamous cell carcinoma
+113,Normal cases,squamous cell carcinoma
+114,adenocarcinoma,squamous cell carcinoma
+115,large cell carcinoma,squamous cell carcinoma
+116,Normal cases,squamous cell carcinoma
+117,Benign cases,squamous cell carcinoma
+119,adenocarcinoma,squamous cell carcinoma
+120,Normal cases,squamous cell carcinoma
+122,adenocarcinoma,squamous cell carcinoma
+123,large cell carcinoma,squamous cell carcinoma
+125,Normal cases,squamous cell carcinoma
+128,Normal cases,squamous cell carcinoma
+129,large cell carcinoma,squamous cell carcinoma
+131,large cell carcinoma,squamous cell carcinoma
+132,Normal cases,squamous cell carcinoma
+133,large cell carcinoma,squamous cell carcinoma
+136,Normal cases,squamous cell carcinoma
+137,large cell carcinoma,squamous cell carcinoma
+138,Benign cases,squamous cell carcinoma
+139,large cell carcinoma,squamous cell carcinoma
+140,Normal cases,squamous cell carcinoma
+143,adenocarcinoma,squamous cell carcinoma
+144,Normal cases,squamous cell carcinoma
+145,Normal cases,squamous cell carcinoma
+146,adenocarcinoma,squamous cell carcinoma
+147,Normal cases,squamous cell carcinoma
+149,adenocarcinoma,squamous cell carcinoma
+151,Normal cases,squamous cell carcinoma
+152,large cell carcinoma,squamous cell carcinoma
+153,large cell carcinoma,squamous cell carcinoma
+155,adenocarcinoma,squamous cell carcinoma
+157,large cell carcinoma,squamous cell carcinoma
+158,Normal cases,squamous cell carcinoma
+159,adenocarcinoma,squamous cell carcinoma
+160,Normal cases,squamous cell carcinoma
+161,Normal cases,squamous cell carcinoma
+163,Normal cases,squamous cell carcinoma
+164,Normal cases,squamous cell carcinoma
+166,adenocarcinoma,squamous cell carcinoma
+167,Normal cases,squamous cell carcinoma
+168,adenocarcinoma,squamous cell carcinoma
+169,large cell carcinoma,squamous cell carcinoma
+170,Normal cases,squamous cell carcinoma
+172,Normal cases,squamous cell carcinoma
+173,large cell carcinoma,squamous cell carcinoma
+174,Normal cases,squamous cell carcinoma
+175,Benign cases,squamous cell carcinoma
+177,large cell carcinoma,squamous cell carcinoma
+178,adenocarcinoma,squamous cell carcinoma
+179,Normal cases,squamous cell carcinoma
+181,Normal cases,squamous cell carcinoma
+183,adenocarcinoma,squamous cell carcinoma
+185,Normal cases,squamous cell carcinoma
+186,Benign cases,squamous cell carcinoma
+187,adenocarcinoma,squamous cell carcinoma
+188,adenocarcinoma,squamous cell carcinoma
+190,Benign cases,squamous cell carcinoma
+191,Normal cases,squamous cell carcinoma
+192,adenocarcinoma,squamous cell carcinoma
+193,adenocarcinoma,squamous cell carcinoma
+194,Normal cases,squamous cell carcinoma
+195,large cell carcinoma,squamous cell carcinoma
+196,Normal cases,squamous cell carcinoma
+197,large cell carcinoma,squamous cell carcinoma
+198,large cell carcinoma,squamous cell carcinoma
+200,Normal cases,squamous cell carcinoma
+201,adenocarcinoma,squamous cell carcinoma
+202,adenocarcinoma,squamous cell carcinoma
+203,adenocarcinoma,squamous cell carcinoma
+204,large cell carcinoma,squamous cell carcinoma
+206,Normal cases,adenocarcinoma
+208,large cell carcinoma,squamous cell carcinoma
+210,Normal cases,squamous cell carcinoma
+211,Normal cases,squamous cell carcinoma
+212,Normal cases,squamous cell carcinoma
+213,Normal cases,squamous cell carcinoma
+214,Normal cases,squamous cell carcinoma
+215,Normal cases,squamous cell carcinoma
+216,adenocarcinoma,squamous cell carcinoma
+218,Normal cases,squamous cell carcinoma
+219,Normal cases,squamous cell carcinoma
+220,Normal cases,squamous cell carcinoma
+221,Normal cases,squamous cell carcinoma
+222,Normal cases,squamous cell carcinoma
+223,adenocarcinoma,squamous cell carcinoma
+224,Normal cases,squamous cell carcinoma
+225,Normal cases,squamous cell carcinoma
+226,Normal cases,squamous cell carcinoma
+227,adenocarcinoma,squamous cell carcinoma
+228,Normal cases,squamous cell carcinoma
+229,Normal cases,squamous cell carcinoma
+230,Benign cases,squamous cell carcinoma
+231,Normal cases,squamous cell carcinoma
+232,Normal cases,squamous cell carcinoma
+233,adenocarcinoma,squamous cell carcinoma
+234,large cell carcinoma,squamous cell carcinoma
+235,Normal cases,squamous cell carcinoma
+236,Benign cases,squamous cell carcinoma
+237,adenocarcinoma,squamous cell carcinoma
+242,adenocarcinoma,squamous cell carcinoma
+243,Benign cases,squamous cell carcinoma
+244,adenocarcinoma,squamous cell carcinoma
+245,Normal cases,squamous cell carcinoma
+246,Normal cases,squamous cell carcinoma
+247,Normal cases,squamous cell carcinoma
+248,Normal cases,squamous cell carcinoma
+249,Normal cases,squamous cell carcinoma
+250,adenocarcinoma,squamous cell carcinoma
+251,Normal cases,squamous cell carcinoma
+252,Normal cases,squamous cell carcinoma
+253,Normal cases,squamous cell carcinoma
+254,Normal cases,squamous cell carcinoma
+255,adenocarcinoma,squamous cell carcinoma
+256,Normal cases,squamous cell carcinoma
+257,adenocarcinoma,squamous cell carcinoma
+258,adenocarcinoma,squamous cell carcinoma
+260,Normal cases,squamous cell carcinoma
+261,Normal cases,squamous cell carcinoma
+262,large cell carcinoma,squamous cell carcinoma
+263,large cell carcinoma,squamous cell carcinoma
+264,Normal cases,squamous cell carcinoma
+267,adenocarcinoma,squamous cell carcinoma
+268,adenocarcinoma,squamous cell carcinoma
+269,Normal cases,squamous cell carcinoma
+270,Normal cases,squamous cell carcinoma
+271,Normal cases,squamous cell carcinoma
+273,large cell carcinoma,squamous cell carcinoma
+275,adenocarcinoma,squamous cell carcinoma
+276,adenocarcinoma,squamous cell carcinoma
+277,adenocarcinoma,squamous cell carcinoma
+278,Normal cases,squamous cell carcinoma
+279,adenocarcinoma,squamous cell carcinoma
+280,large cell carcinoma,squamous cell carcinoma
+281,Benign cases,squamous cell carcinoma
+283,Normal cases,squamous cell carcinoma
+284,large cell carcinoma,squamous cell carcinoma
+285,Normal cases,squamous cell carcinoma
+286,adenocarcinoma,squamous cell carcinoma
+287,adenocarcinoma,squamous cell carcinoma
+288,adenocarcinoma,squamous cell carcinoma
+291,Normal cases,squamous cell carcinoma
+292,large cell carcinoma,squamous cell carcinoma
+293,Normal cases,squamous cell carcinoma
+294,large cell carcinoma,squamous cell carcinoma
+295,large cell carcinoma,squamous cell carcinoma
+296,Normal cases,squamous cell carcinoma
+297,Normal cases,squamous cell carcinoma
+298,Normal cases,squamous cell carcinoma
+300,Normal cases,squamous cell carcinoma
+301,Benign cases,squamous cell carcinoma
+302,Benign cases,squamous cell carcinoma
+303,Normal cases,squamous cell carcinoma
+304,Normal cases,squamous cell carcinoma
+305,Benign cases,squamous cell carcinoma
+306,adenocarcinoma,squamous cell carcinoma

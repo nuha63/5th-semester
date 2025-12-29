@@ -1,0 +1,6 @@
+,Benign cases,Normal cases,adenocarcinoma,large cell carcinoma,squamous cell carcinoma
+Benign cases,0,0,0,0,18
+Normal cases,0,0,4,0,117
+adenocarcinoma,0,0,0,0,68
+large cell carcinoma,0,0,0,0,37
+squamous cell carcinoma,0,0,0,0,63
