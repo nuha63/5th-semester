@@ -1,0 +1,14 @@
+ORG 100h 
+MOV AH, 09h
+MOV DX, OFFSET MESSAGE
+INT 21h 
+
+MOV AH, 4Ch
+INT 21h 
+
+MESSAGE DB 'Hello!!This is Hasan Ahammad', '$' 
+
+INT 20h    
+
+
+

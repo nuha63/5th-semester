@@ -1,0 +1,45 @@
+org 100h
+mov ax, 3    
+int 10h       
+
+mov ax, 1003h
+mov bx, 0
+int 10h
+mov ax, 0b800h
+mov ds, ax
+
+mov [02h], 'H'
+
+mov [04h], 'a'
+
+mov [06h], 's'
+
+mov [08h], 'a'
+
+mov [0ah], 'n'
+
+mov [0ch], ' '
+
+mov [0eh], 'A'
+ 
+mov [10h], 'h'
+
+mov [12h], 'm'
+
+mov [14h], 'm'
+
+mov [16h], 'a'
+
+mov [18h], 'd'
+mov [1ch], '!'
+mov [1eh], '!'
+mov cx, 14  
+mov di, 03h 
+
+c:  mov [di], 11101100b   
+    add di, 2 
+    loop c
+mov ah, 0
+int 16h
+
+ret

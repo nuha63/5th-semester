@@ -1,0 +1,24 @@
+.Model small
+.stack 100h
+
+.data
+b db 19h
+c db 12h
+
+.code
+    MAIN PROC
+        mov ax,@data
+        mov ds,ax
+        
+        mov bl,b
+        mov cl,c
+        
+        sub bl,cl
+        add bl,30h
+        
+        mov ah,02
+        mov dl,bl
+        int 21h
+    
+    main endp
+end main 
