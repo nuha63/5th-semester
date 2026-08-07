@@ -1,0 +1,3 @@
+Reliable data transfer refers to the process of ensuring that data transmitted from a sender
+ to a receiver is delivered accurately and completely, without errors or omissions,
+ and in the correct order
