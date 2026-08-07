@@ -1,5 +1,0 @@
-x=input("sample data:")
-list=x.split(",")
-tuple=tuple(list)
-print("list: ",list)
-print(f"tuple :{tuple}")

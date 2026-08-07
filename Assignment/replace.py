@@ -1,5 +1,0 @@
-str=input()
-old=input()
-new=input()
-new_str=str.replace(old,new)
-print("new string: ",new_str)

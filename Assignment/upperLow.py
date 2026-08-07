@@ -1,5 +1,0 @@
-text=input()
-uppercase=text.upper()
-lowercase=text.lower()
-print(uppercase)
-print(lowercase)
